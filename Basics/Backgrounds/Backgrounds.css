@@ -1,4 +1,4 @@
- :root {
+:root {
     --glaucous: #6382A3ff;
     --dark-cyan: #559997ff;
     --bar-start: #559989ff;
@@ -27,38 +27,4 @@
     align-items: center;
     flex-direction: column;
     font-family: Arial, sans-serif;
-  }
-
-.germania-one-regular {
-  font-family: "Germania One", system-ui;
-  font-weight: 400;
-  font-style: normal;
-}
-.bahiana-regular {
-  font-family: "Bahiana", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-.walter-turncoat-regular {
-  font-family: "Walter Turncoat", cursive;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.font-list {
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    font-size: 25px;
-    text-align: center;
-  }
-
-  .germania-one {
-    font-family: 'Germania One', system-ui;
-  }
-  .bahiana {
-    font-family: 'Bahiana', sans-serif;
-  }
-  .walter-turncoat {
-    font-family: 'Walter Turncoat', cursive;
   }
