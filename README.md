@@ -26,8 +26,8 @@ or change. Any art uploaded here is free to use. For easy navigation, open the [
 > Free graphics I have created are found in here.
 
 ﹌﹌﹌﹌﹌﹌﹌<br> **About the Author**<br> My strange little slice of life. I love art, of all kinds. Especially 3D
-modeling, graphics, and design. Programs used are Blender, Canva, Godot, Pheonix Code, and VSCode. I get my fonts from
-Google Fonts. My jam is interactive projects, where I experiement with layered art to make a digital environment come to
+modeling, graphics, and design. Programs used are Blender, Canva, Godot, Phoenix Code, and VSCode. I get my fonts from
+Google Fonts. My jam is interactive projects, where I experiment with layered art to make a digital environments come to
 life.
 
 **Links**
